@@ -82,5 +82,6 @@
 	<modules>
 		<module>base</module>
 		<module>advance</module>
+		<module>error</module>
 	</modules>
 </project>
