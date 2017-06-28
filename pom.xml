@@ -23,7 +23,6 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-	
 	<build>
 		<finalName>myspringboot</finalName>
 		<plugins>
